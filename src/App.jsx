@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Starter Template</h1>
+      <h1 className="text-2xl">Starter Template</h1>
     </>
   );
 }

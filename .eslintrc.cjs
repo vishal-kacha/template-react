@@ -37,7 +37,7 @@ module.exports = {
       "warn",
       { allowConstantExport: true },
     ],
-    commonjs: true / false,
-    amd: true / false,
+    "import/no-unresolved": 0,
+    "import/default": "off",
   },
 };
